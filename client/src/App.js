@@ -2,9 +2,17 @@ import React from "react";
 
 const App = () => {
     return(
-        <div>
-            <h1>This is a Website</h1>
-        </div>
+        <>
+            <div className="header">
+
+            </div>
+            <div className="main">
+
+            </div>
+            <div className="footer">
+
+            </div>
+        </>
     );
 }
 
